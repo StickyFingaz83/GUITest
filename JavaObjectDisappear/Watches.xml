@@ -1,0 +1,5 @@
+﻿<Properties>
+  <WatchEntry0 value="y" />
+  <WatchEntry1 value="y.Count" />
+  <WatchEntry2 value="(y.Item(i))" />
+</Properties>
